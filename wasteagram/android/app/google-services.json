@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890692257241",
+    "project_id": "silvari-67d6e",
+    "storage_bucket": "silvari-67d6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890692257241:android:5a0b28dbf5151547de45c8",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.silvari.wasteagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890692257241-k9067plgh9d0g6rkpvn51820h8sigucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmqeCgoZhOOzskqNkbZ3BlsHSkMHmVk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890692257241-k9067plgh9d0g6rkpvn51820h8sigucr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
